@@ -72,7 +72,7 @@ int main() {
         }
 
         printf("\n");
-    } while (choice != 3);
+    } while (choice );
 
     return 0;
 }
